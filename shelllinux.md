@@ -1,6 +1,6 @@
 # Personalizando o shell bash:
 
-Parâmetros para colocar no .bashrc:
+## Parâmetros para colocar no .bashrc:
 
 \d – a data no formato “dia da semana mês data”
 \h – o seu hostname sem o grupo de trabalho
