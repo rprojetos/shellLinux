@@ -3,17 +3,11 @@
 ## Breve descrição: 
 
 "O Z-shell ou Zsh é um interpretador de comandos UNIX (shell) que, 
-
 dos shells padrão, mais se assemelha ao Korn shell (ksh); sua compatibilidade 
-
 com o shell Korn de 1988 vem aumentando gradualmente. Ele inclui vários tipos 
-
 de aprimoramentos, principalmente no editor de linha de comando, opções para 
-
 personalizar seu comportamento, globbing de nome de arquivo, recursos para fazer 
-
 com que os usuários do C-shell (csh) se sintam mais à vontade e recursos extras 
-
 extraídos do tcsh (outro shell personalizado)" 
 
 ##### ref.: https://pt.wikipedia.org/wiki/Z_shell
