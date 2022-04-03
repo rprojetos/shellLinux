@@ -1,6 +1,6 @@
 # Personalizando o shell bash:
 
-### Parâmetros para colocar no .bashrc:
+## 1-Parâmetros .bashrc:
 
 \d – a data no formato “dia da semana mês data”
 
@@ -34,8 +34,8 @@
 
 \\ – uma barra invertida
 
-
-### Cor de fundo
+#
+## 2-Cor de fundo
 
 40 - Preto
 
@@ -53,8 +53,8 @@
 
 47 - Branco
 
-
-### Atributo da fonte
+#
+## 3-Atributo da fonte
 
 00 - Reset (Nenhum) 
 
@@ -68,8 +68,8 @@
 
 08 - Oculto
 
-
-### Cor da fonte
+#
+## 4-Cor da fonte
 
 30 - Preto
 
@@ -87,12 +87,13 @@
 
 37 - Branco
 
-
-### Sintaxe:
+#
+## 5-Sintaxe:
 
 '\e[COR_DE_FUNDO;ATRIBUTO_DA_FONTE;COR_DA_FONTEm \e[m'
 
-### Exemplo:
+#
+## 6-Exemplo:
 
 PS1="\e[40;00;32m\u@\h:\e[40;00;34m\W\$ \e[m"
 
